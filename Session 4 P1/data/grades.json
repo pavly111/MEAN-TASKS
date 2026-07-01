@@ -1,0 +1,52 @@
+[
+    {
+        "name": "John Doe",
+        "subject": "Math",
+        "grade": 85
+    },
+    {
+        "name": "Jane Smith",
+        "subject": "Science",
+        "grade": 92
+    },
+    {
+        "name": "Emily Johnson",
+        "subject": "History",
+        "grade": 78
+    },
+    {
+        "name": "Michael Davis",
+        "subject": "English",
+        "grade": 95
+    },
+    {
+        "name": "Sarah Wilson",
+        "subject": "Art",
+        "grade": 88
+    },
+    {
+        "name": "David Brown",
+        "subject": "Physical Education",
+        "grade": 90
+    },
+    {
+        "name": "Olivia Martinez",
+        "subject": "Music",
+        "grade": 82
+    },
+    {
+        "name": "James Anderson",
+        "subject": "Computer Science",
+        "grade": 91
+    },
+    {
+        "name": "Sophia Thomas",
+        "subject": "Geography",
+        "grade": 87
+    },
+    {
+        "name": "William Taylor",
+        "subject": "Economics",
+        "grade": 89
+    }
+]
